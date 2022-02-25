@@ -1,0 +1,39 @@
+body{
+    background-image: linear-gradient(to right, pink 10%, green 90%);
+}
+
+.div{
+    padding-top: 15px; 
+    width: 600px;
+    background-color: aquamarine;
+    height: 50px;
+    display: inline-block;
+    padding-left: 100px;
+    border: 2px solid black;
+    border-radius: 25px;
+    margin: 24px;
+
+}
+.label{
+    font-size: 25px;
+    font-weight: 900;
+    font-family: 'Times New Roman', Times, serif;
+}
+.inp{
+    width: 200px;
+    height: 50px;
+    border-radius: 25px;
+}
+
+.submit{
+    width: 180px;
+    height: 40px;
+    border-radius: 25px;
+    background-color:aquamarine ;
+    font-size: 20px;
+}
+.outDiv{
+    background-image: linear-gradient(to top, rgb(50, 206, 50), rgb(241, 169, 34));
+    border-radius: 25px;
+    border: 2px solid green;
+}

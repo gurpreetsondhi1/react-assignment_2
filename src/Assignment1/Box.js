@@ -1,4 +1,5 @@
 import React from 'react' 
+
 const Box = ({data}) => {
    console.log(data);
   return (
